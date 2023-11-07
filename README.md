@@ -53,6 +53,7 @@ or
 `git push origin`
 
 ## Add the remote changes to the local branch
+
 *Merge from the remote main to the local main*
 
 `git merge origin/main main`
